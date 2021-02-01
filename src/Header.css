@@ -1,0 +1,16 @@
+/** @format */
+.header {
+  border-bottom: 5px solid green;
+  background-color: black;
+}
+.login-text {
+  margin-bottom: 0;
+  font-weight: bold;
+
+  font-size: large;
+}
+
+.login-text:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

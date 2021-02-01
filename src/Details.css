@@ -1,0 +1,49 @@
+/** @format */
+.midHeading {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: bolder;
+}
+.hacker {
+  background-color: #9bbfde;
+  text-align: center;
+
+  /* width: 119px; */
+  /* margin: 4px; */
+  padding: 8px;
+}
+.hipster {
+  background-color: #e88993;
+  text-align: center;
+
+  /* width: 119px; */
+  /* margin: 1px;  */
+  padding: 8px;
+}
+.hustler {
+  background-color: #fbd372;
+  text-align: center;
+  padding: 8px;
+  /* width: 119px; */
+}
+.visionary {
+  background-color: #8fc78f;
+  text-align: center;
+  padding: 8px;
+
+  /* width: 119px; */
+  /* margin-left: 3px; */
+}
+.right-card {
+  margin-left: 40px;
+}
+@media screen and (max-width: 1024px) {
+  .stuChaallenge {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .right-card {
+    margin-left: 0px;
+  }
+}
